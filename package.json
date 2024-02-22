@@ -16,7 +16,13 @@
   ],
   "author": "Pradeep Pandey",
   "license": "MIT",
- 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pp78220/pradeep-countries"
+  },
+  "bugs": {
+    "url": "https://github.com/pp78220/pradeep-countries/issues"
+  },
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
